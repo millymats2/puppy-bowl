@@ -1,0 +1,13 @@
+.background {
+    background-color: rgb(217, 147, 43);
+}
+
+.text {
+    color: white;
+    text-decoration: none;
+    display: flex;
+}
+
+.text:hover {
+    color: rgb(2, 0, 0);
+}

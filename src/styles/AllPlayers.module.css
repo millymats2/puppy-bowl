@@ -4,12 +4,7 @@
     flex-wrap: wrap;
 }
 
-/* .box {
-    height: 75px;
-    width: 40px;
-} */
-
 .img{
-    height: 100px;
-    width: 75px;
+    height: 200px;
+    width: 150px;
 }

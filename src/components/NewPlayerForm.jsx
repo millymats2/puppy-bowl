@@ -9,7 +9,7 @@ export default function NewPlayerForm() {
     const navigate = useNavigate();
 
     const [name, setName] = useState('');
-    const [breed, setBreed] = useState('');
+    const [breed, setBreed] = useState('')
 
     return (
         <div className='container'>
@@ -37,6 +37,7 @@ export default function NewPlayerForm() {
                     setBreed(e.target.value);
                 }}
                 />
+              
                 <button type= "submit">Submit Form</button>
             </form>
         </div>
