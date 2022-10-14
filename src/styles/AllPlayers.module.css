@@ -1,0 +1,15 @@
+.background {
+    background-color: lightblue;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* .box {
+    height: 75px;
+    width: 40px;
+} */
+
+.img{
+    height: 100px;
+    width: 75px;
+}
